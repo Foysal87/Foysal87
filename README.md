@@ -1,9 +1,9 @@
-<a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" hspace="3"/></a>
-<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="3"/></a>
-<a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" hspace="3"/></a>
-<a href="https://www.codechef.com/users/tvirussust" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tvirussust" width="22px" hspace="3" /></a>
-<a href="https://www.hackerrank.com/towhidfoysal123" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/towhidfoysal123" width="22px"  hspace="3"/></a>
-<a href="https://codeforces.com/profile/YoyOyoYOy000y000" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/YoyOyoYOy000y000" width="22px" hspace="3" /></a>
+<a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.codechef.com/users/tvirussust" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tvirussust" width="22px"  /></a>
+<a href="https://www.hackerrank.com/towhidfoysal123" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/towhidfoysal123" width="22px"  /></a>
+<a href="https://codeforces.com/profile/YoyOyoYOy000y000" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/YoyOyoYOy000y000" width="22px"  /></a>
 
 <br>
 <br>
@@ -74,25 +74,18 @@
   <img src="https://img.shields.io/badge/-Basic%20Blockchain%20with%20fabrics-blue">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
 </p>
-
-
-
 <br>
-
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
     alt="spotify" />
 </a>
-
 <h3>
   <code>
     Preferred Languages
   </code>
 </h3>
-
 <br>
-
 <p>
   <img src="views/cpp.jpg" height=40 hspace=10>
   <img src="views/java.png" height=40 hspace=10>
@@ -107,9 +100,7 @@
     Integrated Development Environment(IDE)
   </code>
 </h3>
-
 <br>
-
 <p>
   <img src="views/android_studio.png" height=40 hspace=10>
   <img src="views/codeblocks.png" height=40 hspace=10>
@@ -117,27 +108,19 @@
   <img src="views/netbeans.png" height=40 hspace=10>
   <img src="views/sublime.svg" height=40 hspace=10>
   <img src="views/vscode.png" height=40 hspace=10>
-
 </p>
-
-
 <br>
-
 <h3>
   <code>
     Database
   </code>
 </h3>
-
 <br>
-
 <p>
  <img src="views/mongodb.png" height=40 hspace=10>
  <img src="views/mysql.png" height=40 hspace=10>
  <img src="views/firebase.png" height=40 hspace=10>
-
 </p>
-
 <br>
 <h3>
   <code>
@@ -150,20 +133,18 @@
  <img src="views/git.png" height=40 hspace=10>
  <img src="views/tensorflow.png" height=40 hspace=10>
  <img src="views/pytorch.png" height=40 hspace=10>
-
 </p>
-
 <br>
 ______________________________________________________________________________________
 
 <br>
 <br>
-- 🌱 I’m currently working on **Natural Language Processing Toolkit(sbnltk) and A Startup Project** <br>
+- 🌱 I’m currently working on **Natural Language Processing Toolkit** **(sbnltk)** **and A Startup Project** <br>
 - 🤝 I’m looking for help in **Bangla Corpus Collection** <br>
 - 📫 I'm learning **Holochain,Go and RUST** <br>
 - 👯 I’m looking to collaborate on **Bangla NLP toolkit(sbnltk)** <br>
 - 🕸️ Ask me about **Problem Solving and Deep learning** <br>
-- 🌀 Trying to blog at [Github](https://github.com/Foysal87). <br>
+- 🌀 Trying to blog at [github](https://github.com/Foysal87) <br>
 - 💬 You can reach me **towhidfoysal123@gmail.com** <br>
 - ⚡  Gaming: COD, PUBG ,Valorant and Fall Guys
 

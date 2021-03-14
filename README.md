@@ -80,11 +80,11 @@
     src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
     alt="spotify" />
 </a>
-<h3>
+<h2>
   <code>
     Preferred Languages
   </code>
-</h3>
+</h2>
 <br>
 <p>
   <img src="views/cpp.jpg" height=40 hspace=10>
@@ -95,11 +95,11 @@
 </p>
 
 <br>
-<h3>
+<h2>
   <code>
     Integrated Development Environment(IDE)
   </code>
-</h3>
+</h2>
 <br>
 <p>
   <img src="views/android_studio.png" height=40 hspace=10>
@@ -109,24 +109,22 @@
   <img src="views/sublime.svg" height=40 hspace=10>
   <img src="views/vscode.png" height=40 hspace=10>
 </p>
-<br>
-<h3>
+<h2>
   <code>
     Database
   </code>
-</h3>
+</h2>
 <br>
 <p>
  <img src="views/mongodb.png" height=40 hspace=10>
  <img src="views/mysql.png" height=40 hspace=10>
  <img src="views/firebase.png" height=40 hspace=10>
 </p>
-<br>
-<h3>
+<h2>
   <code>
     Tools Used
   </code>
-</h3>
+</h2>
 
 <p>
  <img src="views/pypi.png" height=40 hspace=10>
@@ -139,13 +137,13 @@ ________________________________________________________________________________
 
 <br>
 <br>
-- 🌱 I’m currently working on **Natural Language Processing Toolkit** **(sbnltk)** **and A Startup Project** <br>
-- 🤝 I’m looking for help in **Bangla Corpus Collection** <br>
-- 📫 I'm learning **Holochain,Go and RUST** <br>
-- 👯 I’m looking to collaborate on **Bangla NLP toolkit(sbnltk)** <br>
-- 🕸️ Ask me about **Problem Solving and Deep learning** <br>
-- 🌀 Trying to blog at [github](https://github.com/Foysal87) <br>
-- 💬 You can reach me **towhidfoysal123@gmail.com** <br>
+- 🌱 I’m currently working on <code>Natural Language Processing Toolkit (sbnltk) and A Startup Project </code> <br>
+- 🤝 I’m looking for help in <code>Bangla Corpus Collection </code> <br>
+- 📫 I'm learning <code>Holochain,Go and RUST </code> <br>
+- 👯 I’m looking to collaborate on <code> Bangla NLP toolkit(sbnltk) </code> <br>
+- 🕸️ Ask me about <code> Problem Solving and Deep learning </code> <br>
+- 🌀 Trying to blog at <code> github </code> <br>
+- 💬 You can reach me <code> towhidfoysal123@gmail.com </code> <br>
 - ⚡  Gaming: COD, PUBG ,Valorant and Fall Guys
 
 <br>

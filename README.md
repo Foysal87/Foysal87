@@ -1,12 +1,9 @@
-<a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.codechef.com/users/tvirussust" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tvirussust" width="22px"  /></a>
-<a href="https://www.hackerrank.com/towhidfoysal123" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/towhidfoysal123" width="22px"  /></a>
-<a href="https://codeforces.com/profile/YoyOyoYOy000y000" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/YoyOyoYOy000y000" width="22px"  /></a>
-
-<br>
-<br>
+<a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.codechef.com/users/tvirussust" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tvirussust" width="20px"  /></a>
+<a href="https://www.hackerrank.com/towhidfoysal123" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/towhidfoysal123" width="20px"  /></a>
+<a href="https://codeforces.com/profile/YoyOyoYOy000y000" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/YoyOyoYOy000y000" width="20px"  /></a>
 <h1 align="center">HELLO!</h1>
 
 <p align="center">
@@ -69,7 +66,6 @@
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
 </p>
  </details>
-<br>
 <details>
  <summary> ✇ <b>Skills</b>: </summary>
 <br>

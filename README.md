@@ -15,18 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="https://en.wikipedia.org/wiki/Homo_sapiens">
-    <img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Life">
-    <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_science">
-    <img src="https://img.shields.io/badge/My%20jam-Computer%20Science-critical?style=flat-square&logo=electron&logoColor=white">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
@@ -41,6 +29,9 @@
 </p>
 
 
+<details>
+ <summary> ✇ <b>Competitive Programmming</b>: </summary>
+<br>
 <h2 align="center">ONLINE JUDGE</h2>
 <p align="center">
   <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/Online%20Judge-Codeforces-red"> </a>
@@ -65,7 +56,12 @@
   <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/Keep%20Tracking%20in%20StopStalk-t__a__f-red"> </a>
     <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/Total%20Problem%20solved-1241-blue"> </a>
 </p>
+ </details>
 
+
+<details>
+ <summary> ✇ <b>Research Area</b>: </summary>
+<br>
 <h2 align="center">RESEARCH</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Deep%20Learning-yellowgreen">
@@ -74,12 +70,18 @@
   <img src="https://img.shields.io/badge/-Basic%20Blockchain%20with%20fabrics-blue">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
 </p>
+ </details>
+
 <br>
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
     alt="spotify" />
 </a>
+<details>
+ <summary> ✇ <b>Skills</b>: </summary>
+<br>
+
 <h2>
   <code>
     Preferred Languages
@@ -133,9 +135,14 @@
  <img src="views/pytorch.png" height=40 hspace=10>
 </p>
 <br>
+</details>
+
 ______________________________________________________________________________________
 
 <br>
+<br>
+<details>
+ <summary> ✇ <b>Current Status</b>: </summary>
 <br>
 - 🌱 I’m currently working on <code>Natural Language Processing Toolkit (sbnltk) and A Startup Project </code> <br>
 - 🤝 I’m looking for help in <code>Bangla Corpus Collection </code> <br>
@@ -146,9 +153,10 @@ ________________________________________________________________________________
 - 💬 You can reach me <code> towhidfoysal123@gmail.com </code> <br>
 - ⚡  Gaming: COD, PUBG ,Valorant and Fall Guys
 
+</details>
 <br>
 
-<details open>
+<details>
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">

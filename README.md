@@ -57,8 +57,6 @@
     <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/Total%20Problem%20solved-1241-blue"> </a>
 </p>
  </details>
-
-
 <details>
  <summary> ✇ <b>Research Area</b>: </summary>
 <br>
@@ -71,13 +69,7 @@
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
 </p>
  </details>
-
 <br>
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
-    alt="spotify" />
-</a>
 <details>
  <summary> ✇ <b>Skills</b>: </summary>
 <br>
@@ -136,11 +128,6 @@
 </p>
 <br>
 </details>
-
-______________________________________________________________________________________
-
-<br>
-<br>
 <details>
  <summary> ✇ <b>Current Status</b>: </summary>
 <br>
@@ -154,8 +141,6 @@ ________________________________________________________________________________
 - ⚡  Gaming: COD, PUBG ,Valorant and Fall Guys
 
 </details>
-<br>
-
 <details>
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>

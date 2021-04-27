@@ -127,9 +127,9 @@
 <details>
  <summary> ✇ <b>Current Status</b>: </summary>
 <br>
-- 🌱 I’m currently working on <code>Natural Language Processing Toolkit (sbnltk) and A Startup Project </code> <br>
+- 🌱 I’m currently working on <code>Natural Language Processing Toolkit (sbnltk) and in orbitax Bangladesh Limited </code> <br>
 - 🤝 I’m looking for help in <code>Bangla Corpus Collection </code> <br>
-- 📫 I'm learning <code>Holochain,Go and RUST </code> <br>
+- 📫 I'm learning <code>c#,dotnet,angular,...</code> <br>
 - 👯 I’m looking to collaborate on <code> Bangla NLP toolkit(sbnltk) </code> <br>
 - 🕸️ Ask me about <code> Problem Solving and Deep learning </code> <br>
 - 🌀 Trying to blog at <code> github </code> <br>

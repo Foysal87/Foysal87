@@ -148,4 +148,13 @@
 <img src="https://komarev.com/ghpvc/?username=Foysal87&label=Profile%20views&color=0e75b6&style=flat" alt="Towhid Ahmed Foysal" /> </p>
 </details>
 
+<details>
+ <summary> ✇ <b>Publications</b>: </summary>
+<br>
+<p align = "center">
+ 1. [Bangla Extractive Text Summarization](https://ieeexplore.ieee.org/document/9667900)
+</p>
+
+</details>
+
 

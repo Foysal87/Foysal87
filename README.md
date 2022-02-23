@@ -152,7 +152,7 @@
  <summary> ✇ <b>Publications</b>: </summary>
 <br>
 <p align = "center">
- 1. [Bangla Extractive Text Summarization](https://ieeexplore.ieee.org/document/9667900)
+ 1. <a href="https://ieeexplore.ieee.org/document/9667900"> Bangla Extractive Text Summarization </a>
 </p>
 
 </details>

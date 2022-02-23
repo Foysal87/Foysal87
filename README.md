@@ -22,7 +22,7 @@
 <br>
 <p align="center">
   <code>
-  I'm Towhid Ahmed Foysal, a Competitive programmer and NLP researcher. I am a 4th year undergrad student at SUST, majoring in Computer Science and Engineering (<strong>CSE</strong>). I have a great passion in <strong>Problem Solving and Natural Language Processing Research</strong>. </code>
+  I'm Towhid Ahmed Foysal, a Competitive programmer and NLP researcher.I am a Software Engineer at Orbitax, which was one of the biggest International tax software Industries in the world. I have a great passion in <strong>Problem Solving and Natural Language Processing Research</strong>. </code>
 </p>
 
 

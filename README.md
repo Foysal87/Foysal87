@@ -15,17 +15,18 @@
   Passionate about Problem Solving, NLP Research, and AI Engineering
 </p>
 
-<br>
-<p align="center">
-  <code>
-  I'm Towhid Ahmed Foysal, a Competitive programmer and NLP researcher.I am a Software Engineer at Orbitax, which is one of the biggest International tax software Industries in the world. I have a great passion in <strong>Problem Solving and Natural Language Processing Research</strong>. </code>
-</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prompt-Engineer-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Software-Engineer-red?style=for-the-badge"/>
 </div>
+
+<br>
+<p align="center">
+  <code>
+  I'm Towhid Ahmed Foysal, a Competitive programmer and NLP researcher.I am a Software Engineer at Orbitax, which is one of the biggest International tax software Industries in the world. I have a great passion in <strong>Problem Solving and Natural Language Processing Research</strong>. </code>
+</p>
 
 ### 🔭 Current Projects
 

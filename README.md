@@ -1,17 +1,49 @@
-<a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img align="right" alt="Foysal's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.codechef.com/users/tvirussust" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tvirussust" width="20px"  /></a>
-<a href="https://www.hackerrank.com/towhidfoysal123" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/towhidfoysal123" width="20px"  /></a>
-<a href="https://codeforces.com/profile/YoyOyoYOy000y000" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/YoyOyoYOy000y000" width="20px"  /></a>
-<h1 align="center">HELLO!</h1>
+<div align="right">
+  <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</div>
+
+<h1 align="center">👋 Hello, I'm Towhid Ahmed Foysal</h1>
 
 <p align="center">
-  <a href="https://github.com/Foysal87">
-    <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
-  </a>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 </p>
 
+<p align="center">
+  <strong>Software Engineer @ Orbitax | AI Developer | Prompt Engineer</strong><br>
+  Passionate about Problem Solving, NLP Research, and AI Engineering
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt-Engineer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-Engineer-red?style=for-the-badge"/>
+</div>
+
+### 🔭 Current Projects
+
+- **XatBot**: Leading the development of an Enterprise-Grade Conversational AI Assistant
+  - Stack: Azure OpenAI Service, Azure Cognitive Search, Azure Bing Search API, Anthropic Claude, 
+    LangChain, ChromaDB, FastAPI, Redis Cache, Docker
+  - Features: RAG Implementation, Multi-Modal Processing, Enterprise Security Integration
+
+- **Visual Studio Extension**: Crafting an AI-Powered Development Assistant
+  - Stack: C#, .NET, Visual Studio SDK, OpenAI API, WPF
+  - Features: Real-time Code Completion, Automated Refactoring, Test Generation
+
+- **AI Engineering Research**: Curating and Maintaining "How to Master AI Engineering" Repository
+  - Focus: Best Practices, Architecture Patterns, Performance Optimization
+  - Topics: LLM Integration, Prompt Engineering, Vector Databases
+
+### 🛠️ Current Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-00ADD8?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
@@ -127,10 +159,12 @@
 <details>
  <summary> ✇ <b>Current Status</b>: </summary>
 <br>
-- 🌱 I’m currently working on <code>Natural Language Processing Toolkit (sbnltk) and in orbitax Bangladesh Limited </code> <br>
-- 🤝 I’m looking for help in <code>Bangla Corpus Collection </code> <br>
-- 📫 I'm learning <code>c#,dotnet,angular,...</code> <br>
-- 👯 I’m looking to collaborate on <code> Bangla NLP toolkit(sbnltk) </code> <br>
+- 🌱 I'm currently working on <code>XatBot - Enterprise-Grade Conversational AI Assistant</code> <br>
+- 🚀 Leading development of <code>AI-Powered Visual Studio Extension</code> <br>
+- 📚 Maintaining <code>How to Master AI Engineering Repository</code> <br>
+- 💡 Specializing in <code>LLM Integration, RAG Systems, and Prompt Engineering</code> <br>
+- 🔧 Working with <code>Azure OpenAI, LangChain, FastAPI, .NET, Docker</code> <br>
+- 👯 I'm looking to collaborate on <code> Bangla NLP toolkit(sbnltk) </code> <br>
 - 🕸️ Ask me about <code> Problem Solving and Deep learning </code> <br>
 - 🌀 Trying to blog at <code> github </code> <br>
 - 💬 You can reach me <code> towhidfoysal123@gmail.com </code> <br>
@@ -155,6 +189,26 @@
  1. <a href="https://ieeexplore.ieee.org/document/9667900"> Bangla Extractive Text Summarization </a>
 </p>
 
+</details>
+
+<details>
+ <summary>🔬 <b>Research & Expertise</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Conversational_AI-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Prompt_Engineering-00ADD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Deep_Learning-yellowgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-NLP-red?style=for-the-badge"/>
+</p>
+</details>
+
+<details>
+ <summary>📫 <b>Connect With Me</b></summary>
+<br>
+<p align="center">
+  📧 Email: towhidfoysal123@gmail.com<br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/">Towhid Ahmed Foysal</a>
+</p>
 </details>
 
 

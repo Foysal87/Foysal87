@@ -17,15 +17,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Foysal87&label=PROFILE+VIEWS&color=111111&style=flat-square&labelColor=111111"/>
-  <a href="https://github.com/Foysal87?tab=followers"><img src="https://img.shields.io/github/followers/Foysal87?label=FOLLOWERS&style=flat-square&color=111111&labelColor=111111"/></a>
-  <a href="https://github.com/Foysal87?tab=stars"><img src="https://img.shields.io/github/stars/Foysal87?affiliations=OWNER&label=STARS&style=flat-square&color=111111&labelColor=111111"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Foysal87&label=PROFILE+VIEWS&color=6d28d9&style=flat-square&labelColor=6d28d9"/>
+  <a href="https://github.com/Foysal87?tab=followers"><img src="https://img.shields.io/github/followers/Foysal87?label=FOLLOWERS&style=flat-square&color=6d28d9&labelColor=6d28d9"/></a>
+  <a href="https://github.com/Foysal87?tab=stars"><img src="https://img.shields.io/github/stars/Foysal87?affiliations=OWNER&label=STARS&style=flat-square&color=6d28d9&labelColor=6d28d9"/></a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=Building+the+XatBot+family;LLM+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems+%E2%80%A2+NLP+research;Competitive+Programmer+%E2%80%A2+Problem+Solver"/>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=720&lines=Building+the+XatBot+family;LLM+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems+%E2%80%A2+NLP+research;Competitive+Programmer+%E2%80%A2+Problem+Solver" alt="typing"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+the+XatBot+family;LLM+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems+%E2%80%A2+NLP+research;Competitive+Programmer+%E2%80%A2+Problem+Solver"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=6d28d9&center=true&vCenter=true&width=720&lines=Building+the+XatBot+family;LLM+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems+%E2%80%A2+NLP+research;Competitive+Programmer+%E2%80%A2+Problem+Solver" alt="typing"/>
   </picture>
 </p>
 
@@ -207,37 +207,41 @@ User-friendly AI interface — multi-LLM provider support.
 
 > **Covered end-to-end** — from frontier LLM APIs (Claude, OpenAI, Bedrock, Vertex) to local inference (Ollama, LiteLLM), from agent frameworks (LangChain, LangGraph) to AI-native dev tools (Claude Code, Cursor, Obsidian).
 
+<!-- VIOLET (#6d28d9) — design.md "AI / agent / special" semantic -->
 ###### LLM&nbsp;PROVIDERS&nbsp;·&nbsp;HOSTING
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude-111111?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS_Bedrock-111111?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Azure_OpenAI-111111?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google_Vertex_AI-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LiteLLM-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude-6d28d9?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenAI-6d28d9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS_Bedrock-6d28d9?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure_OpenAI-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google_Vertex_AI-6d28d9?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ollama-6d28d9?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LiteLLM-6d28d9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-6d28d9?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
+<!-- VIOLET — agentic / orchestration is also "AI / agent" -->
 ###### AGENTIC&nbsp;·&nbsp;ORCHESTRATION&nbsp;·&nbsp;RAG
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LangGraph-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-LlamaIndex-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-ChromaDB-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Pinecone-111111?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Azure_AI_Search-111111?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangChain-6d28d9?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangGraph-6d28d9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-LlamaIndex-6d28d9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ChromaDB-6d28d9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Pinecone-6d28d9?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure_AI_Search-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
+<!-- VIOLET — AI-native dev tooling -->
 ###### AI-NATIVE&nbsp;DEV&nbsp;TOOLS
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude_Code-111111?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Obsidian-111111?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude_Code-6d28d9?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor-6d28d9?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Obsidian-6d28d9?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS_Code-6d28d9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual_Studio-6d28d9?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
+<!-- BLACK — neutral / foundational -->
 ###### LANGUAGES
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
@@ -249,26 +253,28 @@ User-friendly AI interface — multi-LLM provider support.
   <img src="https://img.shields.io/badge/-SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+<!-- BLUE (#2563eb) — design.md "info / calculation" -->
 ###### ML&nbsp;·&nbsp;DATA&nbsp;·&nbsp;VISION
 <p align="center">
-  <img src="https://img.shields.io/badge/-PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-2563eb?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-2563eb?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-2563eb?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-2563eb?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-2563eb?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-2563eb?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
+<!-- TEAL (#0f766e) — design.md "process / infra / neutral" -->
 ###### BACKEND&nbsp;·&nbsp;CLOUD&nbsp;·&nbsp;DATA
 <p align="center">
-  <img src="https://img.shields.io/badge/-FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Redis-111111?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-0f766e?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-0f766e?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-0f766e?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-0f766e?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-0f766e?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-0f766e?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 <br/>
@@ -282,14 +288,14 @@ User-friendly AI interface — multi-LLM provider support.
 <p align="center">
   <a href="https://github.com/Foysal87">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117&border_color=30363d&card_width=460"/>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&include_all_commits=true&count_private=true&title_color=111111&text_color=3d3d3c&icon_color=111111&bg_color=ffffff&border_color=e5e5e4&card_width=460" alt="stats"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&include_all_commits=true&count_private=true&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&border_color=30363d&card_width=460"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&include_all_commits=true&count_private=true&title_color=6d28d9&text_color=3d3d3c&icon_color=6d28d9&bg_color=ffffff&border_color=e5e5e4&card_width=460" alt="stats"/>
     </picture>
   </a>
   <a href="https://github.com/Foysal87">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Foysal87&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=fde68a&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-      <img height="180" src="https://streak-stats.demolab.com?user=Foysal87&background=ffffff&border=e5e5e4&stroke=e5e5e4&ring=111111&fire=b45309&currStreakLabel=111111&sideLabels=3d3d3c&dates=6b6b6a&currStreakNum=111111&sideNums=111111" alt="streak"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Foysal87&background=0d1117&border=30363d&stroke=30363d&ring=a78bfa&fire=fde68a&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+      <img height="180" src="https://streak-stats.demolab.com?user=Foysal87&background=ffffff&border=e5e5e4&stroke=e5e5e4&ring=6d28d9&fire=b45309&currStreakLabel=6d28d9&sideLabels=3d3d3c&dates=6b6b6a&currStreakNum=111111&sideNums=111111" alt="streak"/>
     </picture>
   </a>
 </p>
@@ -297,8 +303,8 @@ User-friendly AI interface — multi-LLM provider support.
 <p align="center">
   <a href="https://github.com/Foysal87">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&layout=compact&langs_count=10&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&card_width=480"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&layout=compact&langs_count=10&title_color=111111&text_color=3d3d3c&bg_color=ffffff&border_color=e5e5e4&card_width=480" alt="top langs"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&layout=compact&langs_count=10&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&card_width=480"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&layout=compact&langs_count=10&title_color=6d28d9&text_color=3d3d3c&bg_color=ffffff&border_color=e5e5e4&card_width=480" alt="top langs"/>
     </picture>
   </a>
 </p>

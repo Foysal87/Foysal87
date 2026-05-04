@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/"><img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:towhidfoysal123@gmail.com"><img src="https://img.shields.io/badge/-Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/dreamy1001/"><img src="https://img.shields.io/badge/-Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/towhidfoysal/?hl=en"><img src="https://img.shields.io/badge/-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/-Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:towhidfoysal123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/dreamy1001/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/towhidfoysal/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -207,74 +207,69 @@ User-friendly AI interface — multi-LLM provider support.
 
 > **Covered end-to-end** — from frontier LLM APIs (Claude, OpenAI, Bedrock, Vertex) to local inference (Ollama, LiteLLM), from agent frameworks (LangChain, LangGraph) to AI-native dev tools (Claude Code, Cursor, Obsidian).
 
-<!-- VIOLET (#6d28d9) — design.md "AI / agent / special" semantic -->
+<!-- Each badge wears its tool's official brand color -->
 ###### LLM&nbsp;PROVIDERS&nbsp;·&nbsp;HOSTING
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude-6d28d9?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenAI-6d28d9?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS_Bedrock-6d28d9?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Azure_OpenAI-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google_Vertex_AI-6d28d9?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ollama-6d28d9?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LiteLLM-6d28d9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-6d28d9?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LiteLLM-191919?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-<!-- VIOLET — agentic / orchestration is also "AI / agent" -->
 ###### AGENTIC&nbsp;·&nbsp;ORCHESTRATION&nbsp;·&nbsp;RAG
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-6d28d9?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LangGraph-6d28d9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-LlamaIndex-6d28d9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-ChromaDB-6d28d9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Pinecone-6d28d9?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Azure_AI_Search-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-LlamaIndex-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ChromaDB-5435EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-<!-- VIOLET — AI-native dev tooling -->
 ###### AI-NATIVE&nbsp;DEV&nbsp;TOOLS
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude_Code-6d28d9?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cursor-6d28d9?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Obsidian-6d28d9?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-6d28d9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Visual_Studio-6d28d9?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
-<!-- BLACK — neutral / foundational -->
 ###### LANGUAGES
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-111111?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<!-- BLUE (#2563eb) — design.md "info / calculation" -->
 ###### ML&nbsp;·&nbsp;DATA&nbsp;·&nbsp;VISION
 <p align="center">
-  <img src="https://img.shields.io/badge/-PyTorch-2563eb?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-2563eb?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-2563eb?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenCV-2563eb?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-2563eb?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-2563eb?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<!-- TEAL (#0f766e) — design.md "process / infra / neutral" -->
 ###### BACKEND&nbsp;·&nbsp;CLOUD&nbsp;·&nbsp;DATA
 <p align="center">
-  <img src="https://img.shields.io/badge/-FastAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-0f766e?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Redis-0f766e?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-0f766e?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-0f766e?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-0f766e?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-0f766e?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <br/>
@@ -328,21 +323,21 @@ User-friendly AI interface — multi-LLM provider support.
 <summary><b>Competitive programming</b></summary>
 <br/>
 <p align="center">
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/-CODEFORCES-111111?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MAX_RATING-1868-2563eb?style=flat-square&labelColor=eff6ff&color=eff6ff"/>
   <img src="https://img.shields.io/badge/CONTESTS-200-047857?style=flat-square&labelColor=ecfdf5&color=ecfdf5"/>
   <img src="https://img.shields.io/badge/SOLVED-797-6d28d9?style=flat-square&labelColor=f5f3ff&color=f5f3ff"/>
 </p>
 <p align="center">
-  <a href="https://uhunt.onlinejudge.org/id/888694"><img src="https://img.shields.io/badge/-UVA-111111?style=flat-square"/></a>
+  <a href="https://uhunt.onlinejudge.org/id/888694"><img src="https://img.shields.io/badge/-UVA-0078D4?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/SOLVED-206-6d28d9?style=flat-square&labelColor=f5f3ff&color=f5f3ff"/>
 </p>
 <p align="center">
-  <a href="https://www.codechef.com/users/tvirussust"><img src="https://img.shields.io/badge/-CODECHEF-111111?style=flat-square&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/tvirussust"><img src="https://img.shields.io/badge/-CODECHEF-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MAX_RATING-1874-2563eb?style=flat-square&labelColor=eff6ff&color=eff6ff"/>
 </p>
 <p align="center">
-  <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/-STOPSTALK-111111?style=flat-square"/></a>
+  <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/-STOPSTALK-B71C1C?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/TOTAL_SOLVED-1241-2563eb?style=flat-square&labelColor=eff6ff&color=eff6ff"/>
 </p>
 </details>

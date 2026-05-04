@@ -1,216 +1,184 @@
-<div align="right">
-  <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/dreamy1001/" target="_blank" rel="nofollow"><img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank" rel="nofollow"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</div>
+<!-- Animated capsule header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Towhid%20Ahmed%20Foysal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20Team%20Lead%20%40%20Orbitax&descAlignY=60&descSize=18" alt="header"/>
+</p>
 
-<h1 align="center">👋 Hello, I'm Towhid Ahmed Foysal</h1>
+<!-- Social links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/dreamy1001/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/towhidfoysal/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:towhidfoysal123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer+%40+Orbitax;AI+Team+Lead+%E2%80%A2+Building+the+XatBot+Family;LLM+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems+%E2%80%A2+NLP+Research;Competitive+Programmer+%E2%80%A2+Problem+Solver" alt="typing"/>
+  </a>
+</p>
+
+<!-- Profile views + visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Foysal87&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/Foysal87?tab=followers"><img src="https://img.shields.io/github/followers/Foysal87?label=Followers&style=flat-square&color=58A6FF" alt="GitHub followers"/></a>
+</p>
+
+---
+
+### About me
+
+```yaml
+name:        Towhid Ahmed Foysal
+role:        Senior Software Engineer · AI Team Lead
+company:     Orbitax — global tax-software industry leader
+focus:       LLM integration · RAG systems · Agentic automation · NLP research
+languages:   Python · C++ · C# · JavaScript · SQL
+ask-me:      Problem solving · Deep learning · Bangla NLP
+contact:     ahmed.foysal@orbitax.com · towhidfoysal123@gmail.com
+```
+
+---
+
+### Currently building — the XatBot family
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### XatBot
+**Enterprise-Grade Conversational AI**
+RAG · multi-modal · enterprise security
+`Azure OpenAI` `Claude` `LangChain` `ChromaDB` `FastAPI` `Redis` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+#### XatBot Auto System
+**Agentic auto-control of the user's system**
+Task automation · screen + input control · safe-by-default sandboxing
+`Agentic AI` `RPA` `Tool-use`
+
+</td>
+<td width="33%" valign="top">
+
+#### XatBot Deep Tracker
+**Deep tracking for tax systems**
+Audit trails · compliance-aware tracking for Orbitax workflows
+`Tax-domain` `Observability` `Compliance`
+
+</td>
+</tr>
+</table>
+
+#### Other ongoing work
+
+- **AI-Powered Visual Studio Extension** — `C#` `.NET` `VS SDK` `OpenAI` `WPF` — real-time code completion, refactoring, test generation.
+- **"How to Master AI Engineering"** — curated repo: best practices, architecture patterns, performance optimization for LLM systems.
+- **Bangla NLP toolkit (sbnltk)** — open to collaborators.
+
+---
+
+### Tech stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,ts,sql&theme=dark" alt="languages"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,mongodb,mysql,firebase,azure,git&theme=dark" alt="backend"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,vscode,visualstudio,linux,windows&theme=dark" alt="ml + tools"/>
+  </a>
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <a href="https://github.com/Foysal87">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=480"/>
+  </a>
+  <a href="https://github.com/Foysal87">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Foysal87&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <strong>Software Engineer @ Orbitax | AI Developer | Prompt Engineer</strong><br>
-  Passionate about Problem Solving, NLP Research, and AI Engineering
-</p>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt-Engineer-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software-Engineer-red?style=for-the-badge"/>
-</div>
-
-<p align="center">
-  <code>
-  I'm Towhid Ahmed Foysal, a Competitive programmer and NLP researcher.I am a Software Engineer at Orbitax, which is one of the biggest International tax software Industries in the world. I have a great passion in <strong>Problem Solving and Natural Language Processing Research</strong>. </code>
-</p>
-
-### 🔭 Current Projects
-
-- **XatBot**: Leading the development of an Enterprise-Grade Conversational AI Assistant
-  - Stack: Azure OpenAI Service, Azure Cognitive Search, Azure Bing Search API, Anthropic Claude, 
-    LangChain, ChromaDB, FastAPI, Redis Cache, Docker
-  - Features: RAG Implementation, Multi-Modal Processing, Enterprise Security Integration
-
-- **Visual Studio Extension**: Crafting an AI-Powered Development Assistant
-  - Stack: C#, .NET, Visual Studio SDK, OpenAI API, WPF
-  - Features: Real-time Code Completion, Automated Refactoring, Test Generation
-
-- **AI Engineering Research**: Curating and Maintaining "How to Master AI Engineering" Repository
-  - Focus: Best Practices, Architecture Patterns, Performance Optimization
-  - Topics: LLM Integration, Prompt Engineering, Vector Databases
-
-### 🛠️ Current Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-00ADD8?style=flat-square&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
+  <a href="https://github.com/Foysal87">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&layout=compact&theme=tokyonight&hide_border=true&card_width=480" alt="top langs"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=Google">
+  <a href="https://github.com/Foysal87">
+    <img src="https://github-profile-trophy.vercel.app/?username=Foysal87&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+  </a>
 </p>
 
+---
 
-<br>
+### Contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal87&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+---
 
 <details>
- <summary> ✇ <b>Competitive Programmming</b>: </summary>
-<br>
-<h2 align="center">ONLINE JUDGE</h2>
-<p align="center">
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/Online%20Judge-Codeforces-red"> </a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/id-YoyOyoYOy000y000-blueviolet"> </a>
-  <a href="https://codeforces.com/contests/with/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/Total%20Contest-200-green"> </a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/Problem%20Solved-797-orange"> </a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/Max--rating-1868-blue"> </a>
-</p>
-<p align="center">
-  <a href="https://uhunt.onlinejudge.org/id/888694"><img src="https://img.shields.io/badge/Online%20Judge-UVA-red"> </a>
-  <a href="https://uhunt.onlinejudge.org/id/888694"> <img src="https://img.shields.io/badge/id-foysal87-blueviolet"> </a>
-  <a href="https://uhunt.onlinejudge.org/id/888694"> <img src="https://img.shields.io/badge/Problem%20Solved-206-orange"> </a>
-</p>
-<p align="center">
-  <a href="https://www.codechef.com/users/tvirussust"><img src="https://img.shields.io/badge/Online%20Judge-Codechef-red"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/id-tvirussust-blueviolet"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/Total%20Contest-20-green"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/Problem%20Solved-24-orange"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/Max--rating-1874-blue"> </a>
-</p>
-<p align="center">
-  <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/Keep%20Tracking%20in%20StopStalk-t__a__f-red"> </a>
-    <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/Total%20Problem%20solved-1241-blue"> </a>
-</p>
- </details>
-<details>
- <summary> ✇ <b>Research Area</b>: </summary>
-<br>
-<h2 align="center">RESEARCH</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-yellowgreen">
-   <img src="https://img.shields.io/badge/-Machine%20Learning-orange">
-  <img src="https://img.shields.io/badge/-NLP-red">
-  <img src="https://img.shields.io/badge/-Basic%20Blockchain%20with%20fabrics-blue">
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
-</p>
- </details>
-<details>
- <summary> ✇ <b>Skills</b>: </summary>
-<br>
-
-<h2>
-  <code>
-    Preferred Languages
-  </code>
-</h2>
-<br>
-<p>
-  <img src="views/cpp.jpg" height=40 hspace=10>
-  <img src="views/java.png" height=40 hspace=10>
-  <img src="views/javascript.png" height=40 hspace=10>
-  <img src="views/python.png" height=40 hspace=10>
-  <img src="views/sql.png" height=40 hspace=10>
-</p>
-
-<br>
-<h2>
-  <code>
-    Integrated Development Environment(IDE)
-  </code>
-</h2>
-<br>
-<p>
-  <img src="views/android_studio.png" height=40 hspace=10>
-  <img src="views/codeblocks.png" height=40 hspace=10>
-  <img src="views/pycharm.png" height=40 hspace=10>
-  <img src="views/netbeans.png" height=40 hspace=10>
-  <img src="views/sublime.svg" height=40 hspace=10>
-  <img src="views/vscode.png" height=40 hspace=10>
-</p>
-<h2>
-  <code>
-    Database
-  </code>
-</h2>
-<br>
-<p>
- <img src="views/mongodb.png" height=40 hspace=10>
- <img src="views/mysql.png" height=40 hspace=10>
- <img src="views/firebase.png" height=40 hspace=10>
-</p>
-<h2>
-  <code>
-    Tools Used
-  </code>
-</h2>
-
-<p>
- <img src="views/pypi.png" height=40 hspace=10>
- <img src="views/git.png" height=40 hspace=10>
- <img src="views/tensorflow.png" height=40 hspace=10>
- <img src="views/pytorch.png" height=40 hspace=10>
-</p>
-<br>
-</details>
-<details>
- <summary> ✇ <b>Current Status</b>: </summary>
-<br>
-- 🌱 I'm currently working on <code>XatBot - Enterprise-Grade Conversational AI Assistant</code> <br>
-- 🚀 Leading development of <code>AI-Powered Visual Studio Extension</code> <br>
-- 📚 Maintaining <code>How to Master AI Engineering Repository</code> <br>
-- 💡 Specializing in <code>LLM Integration, RAG Systems, and Prompt Engineering</code> <br>
-- 🔧 Working with <code>Azure OpenAI, LangChain, FastAPI, .NET, Docker</code> <br>
-- 👯 I'm looking to collaborate on <code> Bangla NLP toolkit(sbnltk) </code> <br>
-- 🕸️ Ask me about <code> Problem Solving and Deep learning </code> <br>
-- 🌀 Trying to blog at <code> github </code> <br>
-- 💬 You can reach me <code> towhidfoysal123@gmail.com </code> <br>
-- ⚡  Gaming: COD, PUBG ,Valorant and Fall Guys
-
-</details>
-<details>
- <summary> ✇ <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&theme=tokyonight">
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Foysal87&label=Profile%20views&color=0e75b6&style=flat" alt="Towhid Ahmed Foysal" /> </p>
-</details>
-
-<details>
- <summary> ✇ <b>Publications</b>: </summary>
-<br>
-<p align = "center">
- 1. <a href="https://ieeexplore.ieee.org/document/9667900"> Bangla Extractive Text Summarization </a>
-</p>
-
-</details>
-
-<details>
- <summary>🔬 <b>Research & Expertise</b></summary>
+<summary>🏆 <b>Competitive Programming</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Conversational_AI-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Prompt_Engineering-00ADD8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Deep_Learning-yellowgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-NLP-red?style=for-the-badge"/>
+  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/Codeforces-YoyOyoYOy000y000-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Max%20Rating-1868-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Contests-200-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Solved-797-orange?style=flat-square"/>
+</p>
+<p align="center">
+  <a href="https://uhunt.onlinejudge.org/id/888694"><img src="https://img.shields.io/badge/UVA-foysal87-0078D4?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Solved-206-orange?style=flat-square"/>
+</p>
+<p align="center">
+  <a href="https://www.codechef.com/users/tvirussust"><img src="https://img.shields.io/badge/CodeChef-tvirussust-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Max%20Rating-1874-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Solved-24-orange?style=flat-square"/>
+</p>
+<p align="center">
+  <a href="https://www.stopstalk.com/user/profile/t_a_f"><img src="https://img.shields.io/badge/StopStalk-t__a__f-red?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Total%20Solved-1241-blue?style=flat-square"/>
 </p>
 </details>
 
 <details>
- <summary>📫 <b>Connect With Me</b></summary>
+<summary>🔬 <b>Research & Publications</b></summary>
 <br>
-<p align="center">
-  📧 Email: towhidfoysal123@gmail.com<br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/">Towhid Ahmed Foysal</a>
-</p>
+
+**Areas:** Conversational AI · Prompt Engineering · Deep Learning · NLP · Blockchain (Hyperledger Fabric) · Artificial Intelligence
+
+**Publications:**
+1. <a href="https://ieeexplore.ieee.org/document/9667900">Bangla Extractive Text Summarization</a> — IEEE
 </details>
 
+<details>
+<summary>🎮 <b>Off-hours</b></summary>
+<br>
+Gaming: COD · PUBG · Valorant · Fall Guys
+</details>
 
+---
+
+<!-- Snake contribution graph (requires the GH Action; falls back gracefully) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Foysal87/Foysal87/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+</p>

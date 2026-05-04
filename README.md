@@ -315,21 +315,6 @@ User-friendly AI interface — multi-LLM provider support.
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗
-     CONTRIBUTION GRAPH  —  dual-themed
-     ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## Contribution graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Foysal87&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20activity"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal87&theme=minimal&hide_border=false&area=true&custom_title=Contribution%20activity" alt="activity graph"/>
-  </picture>
-</p>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗
      ACHIEVEMENTS  —  collapsed, mono uppercase tags per design.md
      ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
